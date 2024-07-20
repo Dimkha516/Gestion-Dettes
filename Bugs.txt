@@ -1,0 +1,2 @@
+Après enregitrement d'un paiement de dette le montant restant affiché sur le input ne s'actualise pas.
+GESTION DES EREURS DANS LA FONCTION AJOUT PAIEMENT
